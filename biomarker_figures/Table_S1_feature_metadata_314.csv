@@ -1,0 +1,315 @@
+Feature,CSV_Feature_Index,Electrode,Region,Lobe,Hemisphere,Scalp,Feature_Type
+Alpha_Band_psd_mean_0,0,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_0,1,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_0,2,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_0,3,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_0,4,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_0,5,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_0,6,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_0,7,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_0,8,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_0,9,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Delta_Band_psd_variance
+Fractal_Dimension_0,10,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Fractal_Dimension
+Wavelet_Energy_0,11,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Wavelet_Energy
+Spectral_Entropy_0,12,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Spectral_Entropy
+Hjorth_Activity_0,13,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Hjorth_Activity
+Hjorth_Mobility_0,14,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Hjorth_Mobility
+Hjorth_Complexity_0,15,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_1,16,F3,Frontal,Frontal,Left,Left frontal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_1,17,F3,Frontal,Frontal,Left,Left frontal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_1,18,F3,Frontal,Frontal,Left,Left frontal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_1,19,F3,Frontal,Frontal,Left,Left frontal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_1,20,F3,Frontal,Frontal,Left,Left frontal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_1,21,F3,Frontal,Frontal,Left,Left frontal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_1,22,F3,Frontal,Frontal,Left,Left frontal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_1,23,F3,Frontal,Frontal,Left,Left frontal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_1,24,F3,Frontal,Frontal,Left,Left frontal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_1,25,F3,Frontal,Frontal,Left,Left frontal scalp,Delta_Band_psd_variance
+Fractal_Dimension_1,26,F3,Frontal,Frontal,Left,Left frontal scalp,Fractal_Dimension
+Wavelet_Energy_1,27,F3,Frontal,Frontal,Left,Left frontal scalp,Wavelet_Energy
+Spectral_Entropy_1,28,F3,Frontal,Frontal,Left,Left frontal scalp,Spectral_Entropy
+Hjorth_Activity_1,29,F3,Frontal,Frontal,Left,Left frontal scalp,Hjorth_Activity
+Hjorth_Mobility_1,30,F3,Frontal,Frontal,Left,Left frontal scalp,Hjorth_Mobility
+Hjorth_Complexity_1,31,F3,Frontal,Frontal,Left,Left frontal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_2,32,C3,Central,Parietal,Left,Left central scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_2,33,C3,Central,Parietal,Left,Left central scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_2,34,C3,Central,Parietal,Left,Left central scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_2,35,C3,Central,Parietal,Left,Left central scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_2,36,C3,Central,Parietal,Left,Left central scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_2,37,C3,Central,Parietal,Left,Left central scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_2,38,C3,Central,Parietal,Left,Left central scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_2,39,C3,Central,Parietal,Left,Left central scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_2,40,C3,Central,Parietal,Left,Left central scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_2,41,C3,Central,Parietal,Left,Left central scalp,Delta_Band_psd_variance
+Fractal_Dimension_2,42,C3,Central,Parietal,Left,Left central scalp,Fractal_Dimension
+Wavelet_Energy_2,43,C3,Central,Parietal,Left,Left central scalp,Wavelet_Energy
+Spectral_Entropy_2,44,C3,Central,Parietal,Left,Left central scalp,Spectral_Entropy
+Hjorth_Activity_2,45,C3,Central,Parietal,Left,Left central scalp,Hjorth_Activity
+Hjorth_Mobility_2,46,C3,Central,Parietal,Left,Left central scalp,Hjorth_Mobility
+Hjorth_Complexity_2,47,C3,Central,Parietal,Left,Left central scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_3,48,P3,Parietal,Parietal,Left,Left parietal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_3,49,P3,Parietal,Parietal,Left,Left parietal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_3,50,P3,Parietal,Parietal,Left,Left parietal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_3,51,P3,Parietal,Parietal,Left,Left parietal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_3,52,P3,Parietal,Parietal,Left,Left parietal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_3,53,P3,Parietal,Parietal,Left,Left parietal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_3,54,P3,Parietal,Parietal,Left,Left parietal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_3,55,P3,Parietal,Parietal,Left,Left parietal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_3,56,P3,Parietal,Parietal,Left,Left parietal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_3,57,P3,Parietal,Parietal,Left,Left parietal scalp,Delta_Band_psd_variance
+Fractal_Dimension_3,58,P3,Parietal,Parietal,Left,Left parietal scalp,Fractal_Dimension
+Wavelet_Energy_3,59,P3,Parietal,Parietal,Left,Left parietal scalp,Wavelet_Energy
+Spectral_Entropy_3,60,P3,Parietal,Parietal,Left,Left parietal scalp,Spectral_Entropy
+Hjorth_Activity_3,61,P3,Parietal,Parietal,Left,Left parietal scalp,Hjorth_Activity
+Hjorth_Mobility_3,62,P3,Parietal,Parietal,Left,Left parietal scalp,Hjorth_Mobility
+Hjorth_Complexity_3,63,P3,Parietal,Parietal,Left,Left parietal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_4,64,O1,Occipital,Occipital,Left,Left occipital scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_4,65,O1,Occipital,Occipital,Left,Left occipital scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_4,66,O1,Occipital,Occipital,Left,Left occipital scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_4,67,O1,Occipital,Occipital,Left,Left occipital scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_4,68,O1,Occipital,Occipital,Left,Left occipital scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_4,69,O1,Occipital,Occipital,Left,Left occipital scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_4,70,O1,Occipital,Occipital,Left,Left occipital scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_4,71,O1,Occipital,Occipital,Left,Left occipital scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_4,72,O1,Occipital,Occipital,Left,Left occipital scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_4,73,O1,Occipital,Occipital,Left,Left occipital scalp,Delta_Band_psd_variance
+Fractal_Dimension_4,74,O1,Occipital,Occipital,Left,Left occipital scalp,Fractal_Dimension
+Wavelet_Energy_4,75,O1,Occipital,Occipital,Left,Left occipital scalp,Wavelet_Energy
+Spectral_Entropy_4,76,O1,Occipital,Occipital,Left,Left occipital scalp,Spectral_Entropy
+Hjorth_Activity_4,77,O1,Occipital,Occipital,Left,Left occipital scalp,Hjorth_Activity
+Hjorth_Mobility_4,78,O1,Occipital,Occipital,Left,Left occipital scalp,Hjorth_Mobility
+Hjorth_Complexity_4,79,O1,Occipital,Occipital,Left,Left occipital scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_5,80,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_5,81,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_5,82,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_5,83,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_5,84,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_5,85,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_5,86,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_5,87,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_5,88,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_5,89,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_5,90,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Fractal_Dimension
+Wavelet_Energy_5,91,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Wavelet_Energy
+Spectral_Entropy_5,92,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Spectral_Entropy
+Hjorth_Activity_5,93,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Hjorth_Activity
+Hjorth_Mobility_5,94,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_5,95,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_6,96,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_6,97,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_6,98,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_6,99,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_6,100,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_6,101,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_6,102,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_6,103,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_6,104,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_6,105,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_6,106,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Fractal_Dimension
+Wavelet_Energy_6,107,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Wavelet_Energy
+Spectral_Entropy_6,108,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Spectral_Entropy
+Hjorth_Activity_6,109,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Hjorth_Activity
+Hjorth_Mobility_6,110,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_6,111,T3,Temporal,Temporal,Left,Left mid-temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_7,112,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_7,113,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_7,114,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_7,115,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_7,116,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_7,117,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_7,118,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_7,119,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_7,120,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_7,121,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_7,122,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Fractal_Dimension
+Wavelet_Energy_7,123,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Wavelet_Energy
+Spectral_Entropy_7,124,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Spectral_Entropy
+Hjorth_Activity_7,125,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Hjorth_Activity
+Hjorth_Mobility_7,126,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_7,127,T5,Temporo-parietal,Temporal,Left,Left posterior temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_8,128,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_8,129,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_8,130,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_8,131,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_8,132,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_8,133,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_8,134,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_8,135,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_8,136,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_8,137,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Delta_Band_psd_variance
+Fractal_Dimension_8,138,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Fractal_Dimension
+Wavelet_Energy_8,139,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Wavelet_Energy
+Spectral_Entropy_8,140,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Spectral_Entropy
+Hjorth_Activity_8,141,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Hjorth_Activity
+Hjorth_Mobility_8,142,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Hjorth_Mobility
+Hjorth_Complexity_8,143,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_9,144,F4,Frontal,Frontal,Right,Right frontal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_9,145,F4,Frontal,Frontal,Right,Right frontal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_9,146,F4,Frontal,Frontal,Right,Right frontal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_9,147,F4,Frontal,Frontal,Right,Right frontal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_9,148,F4,Frontal,Frontal,Right,Right frontal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_9,149,F4,Frontal,Frontal,Right,Right frontal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_9,150,F4,Frontal,Frontal,Right,Right frontal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_9,151,F4,Frontal,Frontal,Right,Right frontal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_9,152,F4,Frontal,Frontal,Right,Right frontal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_9,153,F4,Frontal,Frontal,Right,Right frontal scalp,Delta_Band_psd_variance
+Fractal_Dimension_9,154,F4,Frontal,Frontal,Right,Right frontal scalp,Fractal_Dimension
+Wavelet_Energy_9,155,F4,Frontal,Frontal,Right,Right frontal scalp,Wavelet_Energy
+Spectral_Entropy_9,156,F4,Frontal,Frontal,Right,Right frontal scalp,Spectral_Entropy
+Hjorth_Activity_9,157,F4,Frontal,Frontal,Right,Right frontal scalp,Hjorth_Activity
+Hjorth_Mobility_9,158,F4,Frontal,Frontal,Right,Right frontal scalp,Hjorth_Mobility
+Hjorth_Complexity_9,159,F4,Frontal,Frontal,Right,Right frontal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_10,160,C4,Central,Parietal,Right,Right central scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_10,161,C4,Central,Parietal,Right,Right central scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_10,162,C4,Central,Parietal,Right,Right central scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_10,163,C4,Central,Parietal,Right,Right central scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_10,164,C4,Central,Parietal,Right,Right central scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_10,165,C4,Central,Parietal,Right,Right central scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_10,166,C4,Central,Parietal,Right,Right central scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_10,167,C4,Central,Parietal,Right,Right central scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_10,168,C4,Central,Parietal,Right,Right central scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_10,169,C4,Central,Parietal,Right,Right central scalp,Delta_Band_psd_variance
+Fractal_Dimension_10,170,C4,Central,Parietal,Right,Right central scalp,Fractal_Dimension
+Wavelet_Energy_10,171,C4,Central,Parietal,Right,Right central scalp,Wavelet_Energy
+Spectral_Entropy_10,172,C4,Central,Parietal,Right,Right central scalp,Spectral_Entropy
+Hjorth_Activity_10,173,C4,Central,Parietal,Right,Right central scalp,Hjorth_Activity
+Hjorth_Mobility_10,174,C4,Central,Parietal,Right,Right central scalp,Hjorth_Mobility
+Hjorth_Complexity_10,175,C4,Central,Parietal,Right,Right central scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_11,176,P4,Parietal,Parietal,Right,Right parietal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_11,177,P4,Parietal,Parietal,Right,Right parietal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_11,178,P4,Parietal,Parietal,Right,Right parietal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_11,179,P4,Parietal,Parietal,Right,Right parietal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_11,180,P4,Parietal,Parietal,Right,Right parietal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_11,181,P4,Parietal,Parietal,Right,Right parietal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_11,182,P4,Parietal,Parietal,Right,Right parietal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_11,183,P4,Parietal,Parietal,Right,Right parietal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_11,184,P4,Parietal,Parietal,Right,Right parietal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_11,185,P4,Parietal,Parietal,Right,Right parietal scalp,Delta_Band_psd_variance
+Fractal_Dimension_11,186,P4,Parietal,Parietal,Right,Right parietal scalp,Fractal_Dimension
+Wavelet_Energy_11,187,P4,Parietal,Parietal,Right,Right parietal scalp,Wavelet_Energy
+Spectral_Entropy_11,188,P4,Parietal,Parietal,Right,Right parietal scalp,Spectral_Entropy
+Hjorth_Activity_11,189,P4,Parietal,Parietal,Right,Right parietal scalp,Hjorth_Activity
+Hjorth_Mobility_11,190,P4,Parietal,Parietal,Right,Right parietal scalp,Hjorth_Mobility
+Hjorth_Complexity_11,191,P4,Parietal,Parietal,Right,Right parietal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_12,192,O2,Occipital,Occipital,Right,Right occipital scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_12,193,O2,Occipital,Occipital,Right,Right occipital scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_12,194,O2,Occipital,Occipital,Right,Right occipital scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_12,195,O2,Occipital,Occipital,Right,Right occipital scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_12,196,O2,Occipital,Occipital,Right,Right occipital scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_12,197,O2,Occipital,Occipital,Right,Right occipital scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_12,198,O2,Occipital,Occipital,Right,Right occipital scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_12,199,O2,Occipital,Occipital,Right,Right occipital scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_12,200,O2,Occipital,Occipital,Right,Right occipital scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_12,201,O2,Occipital,Occipital,Right,Right occipital scalp,Delta_Band_psd_variance
+Fractal_Dimension_12,202,O2,Occipital,Occipital,Right,Right occipital scalp,Fractal_Dimension
+Wavelet_Energy_12,203,O2,Occipital,Occipital,Right,Right occipital scalp,Wavelet_Energy
+Spectral_Entropy_12,204,O2,Occipital,Occipital,Right,Right occipital scalp,Spectral_Entropy
+Hjorth_Activity_12,205,O2,Occipital,Occipital,Right,Right occipital scalp,Hjorth_Activity
+Hjorth_Mobility_12,206,O2,Occipital,Occipital,Right,Right occipital scalp,Hjorth_Mobility
+Hjorth_Complexity_12,207,O2,Occipital,Occipital,Right,Right occipital scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_13,208,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_13,209,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_13,210,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_13,211,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_13,212,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_13,213,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_13,214,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_13,215,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_13,216,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_13,217,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_13,218,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Fractal_Dimension
+Wavelet_Energy_13,219,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Wavelet_Energy
+Spectral_Entropy_13,220,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Spectral_Entropy
+Hjorth_Activity_13,221,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Hjorth_Activity
+Hjorth_Mobility_13,222,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_13,223,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_14,224,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_14,225,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_14,226,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_14,227,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_14,228,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_14,229,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_14,230,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_14,231,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_14,232,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_14,233,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_14,234,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Fractal_Dimension
+Wavelet_Energy_14,235,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Wavelet_Energy
+Spectral_Entropy_14,236,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Spectral_Entropy
+Hjorth_Activity_14,237,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Hjorth_Activity
+Hjorth_Mobility_14,238,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_14,239,T4,Temporal,Temporal,Right,Right mid-temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_15,240,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_15,241,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_15,242,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_15,243,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_15,244,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_15,245,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_15,246,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_15,247,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_15,248,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_15,249,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Delta_Band_psd_variance
+Fractal_Dimension_15,250,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Fractal_Dimension
+Wavelet_Energy_15,251,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Wavelet_Energy
+Spectral_Entropy_15,252,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Spectral_Entropy
+Hjorth_Activity_15,253,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Hjorth_Activity
+Hjorth_Mobility_15,254,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Hjorth_Mobility
+Hjorth_Complexity_15,255,T6,Temporo-parietal,Temporal,Right,Right posterior temporal scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_16,256,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_16,257,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_16,258,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_16,259,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_16,260,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_16,261,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_16,262,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_16,263,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_16,264,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_16,265,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Delta_Band_psd_variance
+Fractal_Dimension_16,266,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Fractal_Dimension
+Wavelet_Energy_16,267,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Wavelet_Energy
+Spectral_Entropy_16,268,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Spectral_Entropy
+Hjorth_Activity_16,269,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Hjorth_Activity
+Hjorth_Mobility_16,270,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Hjorth_Mobility
+Hjorth_Complexity_16,271,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Hjorth_Complexity
+Alpha_Band_psd_mean_17,272,Cz,Central midline,Parietal,Midline,Central vertex,Alpha_Band_psd_mean
+Beta_Band_psd_mean_17,273,Cz,Central midline,Parietal,Midline,Central vertex,Beta_Band_psd_mean
+Gamma_Band_psd_mean_17,274,Cz,Central midline,Parietal,Midline,Central vertex,Gamma_Band_psd_mean
+Theta_Band_psd_mean_17,275,Cz,Central midline,Parietal,Midline,Central vertex,Theta_Band_psd_mean
+Delta_Band_psd_mean_17,276,Cz,Central midline,Parietal,Midline,Central vertex,Delta_Band_psd_mean
+Alpha_Band_psd_variance_17,277,Cz,Central midline,Parietal,Midline,Central vertex,Alpha_Band_psd_variance
+Beta_Band_psd_variance_17,278,Cz,Central midline,Parietal,Midline,Central vertex,Beta_Band_psd_variance
+Gamma_Band_psd_variance_17,279,Cz,Central midline,Parietal,Midline,Central vertex,Gamma_Band_psd_variance
+Theta_Band_psd_variance_17,280,Cz,Central midline,Parietal,Midline,Central vertex,Theta_Band_psd_variance
+Delta_Band_psd_variance_17,281,Cz,Central midline,Parietal,Midline,Central vertex,Delta_Band_psd_variance
+Fractal_Dimension_17,282,Cz,Central midline,Parietal,Midline,Central vertex,Fractal_Dimension
+Wavelet_Energy_17,283,Cz,Central midline,Parietal,Midline,Central vertex,Wavelet_Energy
+Spectral_Entropy_17,284,Cz,Central midline,Parietal,Midline,Central vertex,Spectral_Entropy
+Hjorth_Activity_17,285,Cz,Central midline,Parietal,Midline,Central vertex,Hjorth_Activity
+Hjorth_Mobility_17,286,Cz,Central midline,Parietal,Midline,Central vertex,Hjorth_Mobility
+Hjorth_Complexity_17,287,Cz,Central midline,Parietal,Midline,Central vertex,Hjorth_Complexity
+Alpha_Band_psd_mean_18,288,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Alpha_Band_psd_mean
+Beta_Band_psd_mean_18,289,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Beta_Band_psd_mean
+Gamma_Band_psd_mean_18,290,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Gamma_Band_psd_mean
+Theta_Band_psd_mean_18,291,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Theta_Band_psd_mean
+Delta_Band_psd_mean_18,292,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Delta_Band_psd_mean
+Alpha_Band_psd_variance_18,293,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Alpha_Band_psd_variance
+Beta_Band_psd_variance_18,294,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Beta_Band_psd_variance
+Gamma_Band_psd_variance_18,295,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Gamma_Band_psd_variance
+Theta_Band_psd_variance_18,296,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Theta_Band_psd_variance
+Delta_Band_psd_variance_18,297,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Delta_Band_psd_variance
+Fractal_Dimension_18,298,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Fractal_Dimension
+Wavelet_Energy_18,299,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Wavelet_Energy
+Spectral_Entropy_18,300,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Spectral_Entropy
+Hjorth_Activity_18,301,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Hjorth_Activity
+Hjorth_Mobility_18,302,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Hjorth_Mobility
+Hjorth_Complexity_18,303,Pz,Parietal midline,Parietal,Midline,Parietal midline scalp,Hjorth_Complexity
+Alpha_Asymmetry_Fp2_minus_Fp1,304,Fp2-Fp1,Prefrontal,Frontal,Right-Left,Prefrontal asymmetry,Alpha_Asymmetry
+Alpha_Asymmetry_F4_minus_F3,305,F4-F3,Frontal,Frontal,Right-Left,Frontal asymmetry,Alpha_Asymmetry
+Alpha_Asymmetry_F8_minus_F7,306,F8-F7,Fronto-temporal,Frontal,Right-Left,Fronto-temporal asymmetry,Alpha_Asymmetry
+Theta_Alpha_Ratio_Fp1,307,Fp1,Prefrontal,Frontal,Left,Left prefrontal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_F3,308,F3,Frontal,Frontal,Left,Left frontal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_F4,309,F4,Frontal,Frontal,Right,Right frontal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_Fp2,310,Fp2,Prefrontal,Frontal,Right,Right prefrontal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_F7,311,F7,Fronto-temporal,Frontal,Left,Left fronto-temporal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_F8,312,F8,Fronto-temporal,Frontal,Right,Right fronto-temporal scalp,Theta_Alpha_Ratio
+Theta_Alpha_Ratio_Fz,313,Fz,Frontal midline,Frontal,Midline,Frontal midline scalp,Theta_Alpha_Ratio

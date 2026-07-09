@@ -1,0 +1,6 @@
+Removed_Feature,Correlated_With,Spearman_rho,Reason
+Alpha_Band_psd_mean_14,Alpha_Band_psd_variance_14,0.9127,|rho| > 0.85
+Alpha_Band_psd_mean_3,Alpha_Band_psd_mean_4,0.8665,|rho| > 0.85
+Hjorth_Complexity_3,Hjorth_Complexity_4,0.8812,|rho| > 0.85
+Beta_Band_psd_mean_15,Beta_Band_psd_variance_15,0.8719,|rho| > 0.85
+Wavelet_Energy_15,Wavelet_Energy_12,0.8507,|rho| > 0.85

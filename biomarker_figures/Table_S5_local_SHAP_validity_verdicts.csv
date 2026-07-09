@@ -1,0 +1,11 @@
+Biomarker,Label,HitRate_MDD,SignConsistency_MDD,Verdict
+Alpha_Band_psd_mean_11,P4 | Alpha mean,0.6,0.52,Moderate
+Alpha_Band_psd_variance_12,O2 | Alpha variance,0.56,0.52,Moderate
+Alpha_Band_psd_variance_14,T4 | Alpha variance,0.66,0.5,Moderate
+Alpha_Band_psd_mean_4,O1 | Alpha mean,0.66,0.78,Strong VALID
+Hjorth_Complexity_4,O1 | Hjorth Complexity,0.6,0.66,Moderate
+Alpha_Band_psd_mean_3,P3 | Alpha mean,0.42,0.86,Strong VALID
+Wavelet_Energy_12,O2 | Wavelet Energy,0.46,0.9,Strong VALID
+Beta_Band_psd_mean_12,O2 | Beta mean,0.24,0.94,Weak
+Beta_Band_psd_variance_15,T6 | Beta variance,0.52,0.62,Moderate
+Alpha_Band_psd_mean_6,T3 | Alpha mean,0.28,0.94,Moderate VALID
